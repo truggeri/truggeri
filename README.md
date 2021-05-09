@@ -1,75 +1,74 @@
 # Thomas Ruggeri
 
-https://www.truggeri.com
+See more on my website, [https://www.truggeri.com](https://www.truggeri.com)
 
-## Professional Experience
+## About Me
 
-### ZipRecruiter
+I'm native to Oregon. I went to [Oregon State University](https://oregonstate.edu/) for a
+[bachelors](https://eecs.oregonstate.edu/academics/undergraduates/electrical-computer-engineering) and
+[masters](https://eecs.oregonstate.edu/current-students/graduate/ece-program) in
+[Electrical and Computer Engineering](https://eecs.oregonstate.edu/).
+I worked at [Nvidia](https://www.nvidia.com/en-us/about-nvidia/) in Beaverton Oregon (just outside of Portland)
+on [next generation ARM cpus and systems-on-chip (SoC)](https://en.wikipedia.org/wiki/Project_Denver),
+before moving to Charleston, South Carolina and changing career paths a little bit.
 
-Charleston, SC
-Senior Software Engineer II
-2018 - present
+I began working at [Snagajob](https://www.snagajob.com/about/), specifically the
+[PeopleMatter](https://www.peoplematter.com)
+team, as a senior software engineer in 2017. I'm now working
+as a member of the [JobBoard.io](https://www.jobboard.io) team at
+[ZipRecruiter](https://www.ziprecruiter.com/hiring/technology).
 
-* Responsible for white label web application receiving 2M visitors per day
-* Develop and maintain code and infrastructure deployed in multiple clouds
-* Ownership of international platform in 12 foreign countries and nine languages
+You can see my [resume](resume.md) for more details.
 
-### Snagajob
+## Skills
 
-Charleston, SC
-Senior Software Engineer
-2017 - 2018
+![Ruby Badge](https://img.shields.io/badge/-Ruby-81302f?style=flat&labelColor=9a1c19&logo=ruby&logoColor=white)
+![RoR Badge](https://img.shields.io/badge/-Ruby_On_Rails-b32424?style=flat&labelColor=cc0000&logo=ruby-on-rails&logoColor=white)
+![Go Badge](https://img.shields.io/badge/-Go-0084c0?style=flat&labelColor=00ADD8&logo=go&logoColor=white)
 
-* Tech lead of scrum team of five software and three QA engineers
-* Responsible for containerization and migration of 20 web services between hosting environments
-* Developed and maintained web application responsible for $10M annual revenue
+![Postgres Badge](https://img.shields.io/badge/-PostgreSQL-426078?style=flat&labelColor=336791&logo=postgresql&logoColor=white)
+![Mongo Badge](https://img.shields.io/badge/-Mongo_DB-588958?style=flat&labelColor=47A248&logo=mongodb&logoColor=white)
+![S3 Badge](https://img.shields.io/badge/-S3-598143?style=flat&labelColor=569A31&logo=amazon-s3&logoColor=white)
+![Redis Badge](https://img.shields.io/badge/-Redis-c2564e?style=flat&labelColor=DC382D&logo=redis&logoColor=white)
 
-### Nvidia
+![Docker Badge](https://img.shields.io/badge/-Docker-4b99d4?style=flat&labelColor=2496ED&logo=docker&logoColor=white)
+![k8s Badge](https://img.shields.io/badge/-k8s-567bcc?style=flat&labelColor=326CE5&logo=kubernetes&logoColor=white)
+![Terraform Badge](https://img.shields.io/badge/-Terraform-775ecb?style=flat&labelColor=623CE4&logo=terraform&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-d66a57?style=flat&labelColor=F05032&logo=git&logoColor=white)
 
-Beaverton, OR
-Verification Engineer
-2012 - 2017
+## Projects
 
-* Software verification of essential cpu subsystem in custom designed ARM cpu
-* Developed lab methodology and framework for power research and validation of dozens of in house and competitive cpus
-* Member of cpu “bringup” team for six straight Tegra chips sold in millions of devices
+I have a number of side-projects that are a decent representation of my style of code.
 
-## Education
+### OAuth Tester
 
-### Oregon State University
+![Go Badge](https://img.shields.io/badge/-Go-0084c0?style=flat&labelColor=00ADD8&logo=go&logoColor=white)
+![Firestore Badge](https://img.shields.io/badge/-Firestore-e6c152?style=flat&labelColor=FFCA28&logo=firebase&logoColor=white)
+![Svelte Badge](https://img.shields.io/badge/-Svelte-e65c2e?style=flat&labelColor=FF3E00&logo=svelte&logoColor=white)
+![GCPF Badge](https://img.shields.io/badge/-GCP_Functions-6794db?style=flat&labelColor=4285F4&logo=google-cloud&logoColor=white)
 
-* Masters of Science, June 2012
-Cumulative GPA: 3.80
-* Bachelors of Science, June 2010
-Cumulative GPA: 3.94
-Major: Electrical and Computer Engineering. Minor: Computer Science
+OAuth Tester is an app made to help developers to test their OAuth2 clients. It's made using GCP Cloud Functions and Firebase hosting. Create credentials and then test your client against it to help the debug process.
 
-## Additional Skills
+You can check it out at [https://oauth-debugger.truggeri.com](https://oauth-debugger.truggeri.com)
 
-* Aws Certified Developer Associate (2018 - 2021)
-* Write and maintain web applications using Ruby, Ruby-on-Rails, Go
-* Data storage with PostgreSQL, MongoDB, DynamoDB, Aws S3, Redis
-* Deploy applications using Docker, Kubernetes (k8s), Terraform, Heroku, git
-* Continuous Integration with Github Actions, CircleCI, Jenkins
+### Chore Scheduler
 
-## Volunteering Experience
+![RoR Badge](https://img.shields.io/badge/-Ruby_On_Rails-b32424?style=flat&labelColor=cc0000&logo=ruby-on-rails&logoColor=white)
+![Postgres Badge](https://img.shields.io/badge/-PostgreSQL-426078?style=flat&labelColor=336791&logo=postgresql&logoColor=white)
+![Heroku Badge](https://img.shields.io/badge/-Heroku-45197f?style=flat&labelColor=430098&logo=heroku&logoColor=white)
 
-### TEALS (Microsoft)
+Chore Scheduler is a classic Ruby on Rails application with PostgreSQL database. It has recently been updated to Rails 6.1.
 
-2017 - 2018, 2021
+You can see it at [https://choreplan.truggeri.com](https://choreplan.truggeri.com)
 
-* Teacher for AP Computer Science at West Ashley High School, Charleston SC
-* Worked with school teachers to integrate program curriculum throughout school year
+### Go Sudoku
 
-### SC Codes
+![Go Badge](https://img.shields.io/badge/-Go-0084c0?style=flat&labelColor=00ADD8&logo=go&logoColor=white)
 
-2019 - 2021
+When I'm learning a new language, a sudoku solver is my go-to application. This implementation uses Go and has a test and benchmark.
 
-* Assist students with course work and questions
-* Spoke at “Mentor Monday” Q&A
+### Ruby Sudoku
 
-### CodeON
+![Ruby Badge](https://img.shields.io/badge/-Ruby-81302f?style=flat&labelColor=9a1c19&logo=ruby&logoColor=white)
 
-2018 - 2019
-
-* Assistant during in-person sessions with students working on Code.org curriculum
+Similar to the Go implementation, the Ruby sudoku solver was made to help me experiment with Ruby when I was learning. It now includes an RSpec test suite.
