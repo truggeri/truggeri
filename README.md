@@ -49,7 +49,7 @@ I have a number of side-projects that are a decent representation of my style of
 
 OAuth Tester is an app made to help developers to test their OAuth2 clients. It's made using GCP Cloud Functions and Firebase hosting. Create credentials and then test your client against it to help the debug process.
 
-You can check it out at [https://oauth-debugger.truggeri.com](https://oauth-debugger.truggeri.com)
+You can check it out at [https://testoauth.com](https://testoauth.com)
 
 ### Chore Scheduler
 
