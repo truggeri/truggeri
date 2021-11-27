@@ -14,11 +14,10 @@ before moving to Charleston, South Carolina and changing career paths a little b
 
 I began working at [Snagajob](https://www.snagajob.com/about/), specifically the
 [PeopleMatter](https://www.peoplematter.com)
-team, as a senior software engineer in 2017. I'm now working
-as a member of the [JobBoard.io](https://www.jobboard.io) team at
-[ZipRecruiter](https://www.ziprecruiter.com/hiring/technology).
+team, as a senior software engineer in 2017. I then transitioned to be a member of the [JobBoard.io](https://www.jobboard.io) team at
+[ZipRecruiter](https://www.ziprecruiter.com/hiring/technology). I'm now a lead software engineer at [Goldbelly](https://www.goldbelly.com).
 
-You can see my [resume](resume.md) for more details.
+You can see my [resume](https://truggeri.com/resume/) for more details.
 
 ## Skills
 
