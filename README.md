@@ -15,7 +15,7 @@ before moving to Charleston, South Carolina and changing career paths a little b
 I began working at [Snagajob](https://www.snagajob.com/about/), specifically the
 [PeopleMatter](https://www.peoplematter.com)
 team, as a senior software engineer in 2017. I then transitioned to be a member of the [JobBoard.io](https://www.jobboard.io) team at
-[ZipRecruiter](https://www.ziprecruiter.com/hiring/technology). I'm now a lead software engineer at [Goldbelly](https://www.goldbelly.com).
+[ZipRecruiter](https://www.ziprecruiter.com/hiring/technology). I'm now a software development engineer at [Aws](https://aws.amazon.com/).
 
 You can see my [resume](https://truggeri.com/resume/) for more details.
 
@@ -24,6 +24,7 @@ You can see my [resume](https://truggeri.com/resume/) for more details.
 ![Ruby Badge](https://img.shields.io/badge/-Ruby-81302f?style=flat&labelColor=9a1c19&logo=ruby&logoColor=white)
 ![RoR Badge](https://img.shields.io/badge/-Ruby_On_Rails-b32424?style=flat&labelColor=cc0000&logo=ruby-on-rails&logoColor=white)
 ![Go Badge](https://img.shields.io/badge/-Go-0084c0?style=flat&labelColor=00ADD8&logo=go&logoColor=white)
+![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=85cee2&logo=react&logoColor=white)
 
 ![Postgres Badge](https://img.shields.io/badge/-PostgreSQL-426078?style=flat&labelColor=336791&logo=postgresql&logoColor=white)
 ![Mongo Badge](https://img.shields.io/badge/-Mongo_DB-588958?style=flat&labelColor=47A248&logo=mongodb&logoColor=white)
