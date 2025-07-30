@@ -15,7 +15,7 @@ before moving to Charleston, South Carolina and changing career paths a little b
 I began working at [Snagajob](https://www.snagajob.com/about/), specifically the
 [PeopleMatter](https://www.peoplematter.com)
 team, as a senior software engineer in 2017. I then transitioned to be a member of the [JobBoard.io](https://www.jobboard.io) team at
-[ZipRecruiter](https://www.ziprecruiter.com/hiring/technology). I'm now a software development engineer at [Aws](https://aws.amazon.com/).
+[ZipRecruiter](https://www.ziprecruiter.com/hiring/technology). I'm now back in Oregon and a senior software development engineer at [AWS](https://aws.amazon.com/).
 
 You can see my [resume](https://truggeri.com/resume/) for more details.
 
@@ -27,8 +27,8 @@ You can see my [resume](https://truggeri.com/resume/) for more details.
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=85cee2&logo=react&logoColor=white)
 
 ![Postgres Badge](https://img.shields.io/badge/-PostgreSQL-426078?style=flat&labelColor=336791&logo=postgresql&logoColor=white)
-![Mongo Badge](https://img.shields.io/badge/-Mongo_DB-588958?style=flat&labelColor=47A248&logo=mongodb&logoColor=white)
-![S3 Badge](https://img.shields.io/badge/-S3-598143?style=flat&labelColor=569A31&logo=amazon-s3&logoColor=white)
+![DDB_Badge](https://img.shields.io/badge/-DynamoDB-2d2ea9)
+![S3_Badge](https://img.shields.io/badge/-AWS_S3-598143)
 ![Redis Badge](https://img.shields.io/badge/-Redis-c2564e?style=flat&labelColor=DC382D&logo=redis&logoColor=white)
 
 ![Docker Badge](https://img.shields.io/badge/-Docker-4b99d4?style=flat&labelColor=2496ED&logo=docker&logoColor=white)
@@ -48,8 +48,6 @@ I have a number of side-projects that are a decent representation of my style of
 ![GCPF Badge](https://img.shields.io/badge/-GCP_Functions-6794db?style=flat&labelColor=4285F4&logo=google-cloud&logoColor=white)
 
 OAuth Tester is an app made to help developers to test their OAuth2 clients. It's made using GCP Cloud Functions and Firebase hosting. Create credentials and then test your client against it to help the debug process.
-
-You can check it out at [https://testoauth.com](https://testoauth.com)
 
 ### Chore Scheduler
 
